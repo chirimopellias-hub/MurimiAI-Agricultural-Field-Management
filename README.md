@@ -391,9 +391,9 @@ Install the following development tools:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/MurimiAI.git
+git clone https://github.com/chirimopellias-hub/MurimiAI-Agricultural-Field-Management.git
 
-cd MurimiAI
+cd MurimiAI-Agricultural-Field-Management
 ```
 
 ### 2. Frontend Setup
